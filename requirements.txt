@@ -1,0 +1,3 @@
+aiogram
+mistralai
+python-dotenv
